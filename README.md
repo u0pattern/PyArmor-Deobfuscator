@@ -8,4 +8,4 @@ install [uncompyle6](https://pypi.org/project/uncompyle6/): <br>
 # Usage
 ```
 ~$ ./PyArmorDeobfuscator.py -f [Obfuscated File] -o [Output file]
-~$ ./PyArmorDeobfuscator.py -p obfuscatedFile.py -m deobfuscatedFile.py
+~$ ./PyArmorDeobfuscator.py -f obfuscatedFile.py -o deobfuscatedFile.py
